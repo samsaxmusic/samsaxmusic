@@ -1,5 +1,5 @@
 ## Olá, sou samuel oliveira ✌️✌️
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=samsaxmusic&show_icons=true&theme=dracula&count_private=true)
 
 
 <div style="display: inline_block"><br>
