@@ -1,5 +1,5 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samsaxmusic&bg_color=39FF14
-=15f005&line=0ce208&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carolbarbosa101&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Olá, sou samuel oliveira ✌️✌️
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=samsaxmusic&show_icons=true&theme=dracula&count_private=true)
